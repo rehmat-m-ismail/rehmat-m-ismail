@@ -67,7 +67,7 @@
 
 ## 📌 Pinned Projects
 
-- [**My Portfolio Website**](https://github.com/rehmat-m-ismail/portfolio)  
+- [**My Portfolio Website**](https://rehmat-m-ismail.github.io/portfolio/)
 - [**Quiz App**](https://github.com/rehmat-m-ismail/quiz-app)  
 - [**Food App**](https://github.com/rehmat-m-ismail/food-app)  
 - [**ATM Project**](https://github.com/rehmat-m-ismail/atm-project)
