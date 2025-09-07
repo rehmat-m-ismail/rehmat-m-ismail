@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-profile-photo" width="120px" style="border-radius: 50%;" alt="Rehmat Profile" />
+  <img src="https://avatars.githubusercontent.com/u/174985726?s=96&v=4" width="120px" style="border-radius: 50%;" alt="Rehmat Profile" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rehmat</h1>
