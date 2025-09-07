@@ -1,8 +1,4 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/174985726?s=96&v=4" width="120px" style="border-radius: 50%;" alt="Rehmat Profile" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Rehmat</h1>
 <h3 align="center">Aspiring Frontend Developer | MERN Stack Learner | Designer</h3>
 
@@ -37,6 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Styling & Design**
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
